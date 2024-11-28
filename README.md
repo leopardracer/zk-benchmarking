@@ -324,7 +324,7 @@ The table below shows the size of a generated proof in **kilobytes**. Proof size
 
 (Scenario type: building block)
 
-Proving the inclusion of a leaf to a Merkle tree is an essential building block for real world applications. For the scenario we construct a Merkle path of depth 32 and verify the inclusion of as many leafs as the current `job_size`. So, for job_size=10 we verify 10 Merkle paths of depth 32.
+Proving the inclusion of a leaf to a Merkle tree is an essential building block for real world applications. For the scenario we construct a Merkle path of depth 32 and verify the inclusion of as many leaves as the current `job_size`. So, for job_size=10 we verify 10 Merkle paths of depth 32.
 
 #### Prover performance
 
